@@ -1,0 +1,7 @@
+#!/usr/bin/env python3
+# accept argument as hex string and print as ascii
+import sys
+hexstr = sys.argv[1]
+
+bytes = bytes.fromhex(hexstr).decode('utf-8')
+print(bytes)
