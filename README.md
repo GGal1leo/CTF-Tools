@@ -1,2 +1,2 @@
 # CTF-Tools
-Tools/aliases made for faster ctf solves
+Tools/aliases/fish-cmdlets made for faster ctf solves
